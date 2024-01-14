@@ -10,4 +10,5 @@ export default defineConfig({
       "Cross-Origin-Opener-Policy": "unsafe-none",
     },
   },
+  base: "/study-nodebox-react-ts-vite/",
 });
